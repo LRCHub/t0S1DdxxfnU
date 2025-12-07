@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "次回予告",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2025-12-07T14:31:32.311032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "次回予告",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_次回予告_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "次回予告",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_次回予告_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "次回予告 - Preview of Me",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_次回予告_-_Preview_of_Me_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "次回予告",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/04_次回予告_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "次回予告",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_次回予告_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "次回予告",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_次回予告_キタニタツヤ.txt"
+    }
+  ]
+}
